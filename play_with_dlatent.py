@@ -10,7 +10,7 @@ def read_feature(file_name):
     contents = file.readlines()
     # 准备一个列表，用来存放取出来的数据
     code = np.zeros((512, ))
-    # for循环遍历列表，去除每一行读取到的内容
+    # for循环遍历列表，去除每一行读取到的内容.
     for i in range(512):
         name = contents[i]
         name = name.strip('\n')
