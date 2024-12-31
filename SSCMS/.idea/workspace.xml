@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="067496ed-e3b5-4b90-88f9-0ba18888bcc5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/course/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/user/forms.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/course/views.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/user/views.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/user/cbvs.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1s4aBzqSVLbTlHB9SyjKOQM7mD1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DIP/pin" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunManager">
+    <configuration name="django_server" type="PythonConfigurationType" factoryName="Python">
+      <module name="SSCMS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Asteria\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="067496ed-e3b5-4b90-88f9-0ba18888bcc5" name="Default Changelist" comment="" />
+      <created>1620134183384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620134183384</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620139338324">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="309" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1620139338324" />
+    <state x="634" y="269" key="FileChooserDialogImpl" timestamp="1624144925772">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="634" y="269" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1624144925772" />
+    <state width="1685" height="150" key="GridCell.Tab.0.bottom" timestamp="1623383231299">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1685" height="150" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1623383231299" />
+    <state width="1685" height="150" key="GridCell.Tab.0.center" timestamp="1623383231299">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1685" height="150" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1623383231299" />
+    <state width="1685" height="150" key="GridCell.Tab.0.left" timestamp="1623383231298">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1685" height="150" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1623383231298" />
+    <state width="1685" height="150" key="GridCell.Tab.0.right" timestamp="1623383231299">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1685" height="150" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1623383231299" />
+    <state x="519" y="313" key="SettingsEditor" timestamp="1620893799268">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="519" y="313" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1620893799268" />
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1623111745647">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1623111745647" />
+  </component>
+</project>

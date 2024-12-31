@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load static %}
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+    <link href="{% static 'css/register.css' %}" rel="stylesheet">
+</head>
+<body>
+    <div class="register-container">
+        <div class="register-title">注册</div>
+        <!-- form 表单中的method属性中的post方法说明浏览器向服务器发送数据
+             建立连接之后，浏览器就会按照分段传输的方法将数据发送给服务器-->
+        <form method="post" class="form">
+            {% csrf_token %}
+            <!--django 会自动创建显示表单所需要的全部字段
+                修饰符as_p让Django以字段格式渲染所有的表单元素-->
+            {{form.as_p}}
+            <p><input type="submit" value="注册" class="submit-button"></p>
+        </form>
+        <div class="return-button">
+            <a href="{% url 'login' kind%}">返回上一页</a>
+        </div>
+    </div>
+</body>
+</html>
